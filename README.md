@@ -11,3 +11,19 @@ DISCUSSION: This study showed memory is highly and comparably heritable across s
 
 ## Software Tools
 GWAS: PLINK, Meta-Analyses: GWAMA, SNP-Heritability: GCTA, Gene-Set Analyses: MAGMA, Genetic Correlation: GNOVA (also see [here](https://github.com/qlu-lab/GNOVA-2.0)
+
+Acknowledgement
+
+Genetic and cognitive data from this study was obtained from the following cohorts: Alzheimer's Disease Neuroimaging Initiative (ADNI), Adult Changes in Thought (ACT), National Alzheimer’s Coordinating Center (NACC), and Religious Orders Study/Memory and Aging Project/Minority Aging Research Study (ROS/MAP/MARS).
+
+For extensive details on the cognitive harmonization process, please see this paper: [Mukherjee et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9898463/).
+
+Citation
+
+Please cite the following paper:
+
+Eissman JM, Archer DB, Mukherjee S, Lee ML, Choi S-E, Scollard P, Emily H. Trittschuh4,5; Jesse B. Mez6; William S. Bush7; Brian W. Kunkle8; Adam C. Naj11,12; Katherine A. Gifford1; The Alzheimer’s Disease Neuroimaging Initiative (ADNI)*; Alzheimer’s Disease Genetics Consortium (ADGC), The Alzheimer's Disease Sequencing Project (ADSP), Cuccaro ML; Cruchaga C, Pericak-Vance MA, Farrer LA, Wang L-S, Schellenberg GD, Mayeux RP, Haines JL, Jefferson AL, Kukull WA, Keene CD, Saykin AJ, Thompson PM, Martin ER, Bennett DA, Barnes LL, Schneider JA, Crane PK, Hohman TJ, Dumitrescu L. Sex-specific genetic architecture of late-life memory performance. Alzheimer's & Dementia. Under Review.
+
+Contact
+For questions, comments, or data inquiries, please email corresponding author, Logan Dumitrescu, M.S., Ph.D. at logan.c.dumitrescu@vumc.org.
+
