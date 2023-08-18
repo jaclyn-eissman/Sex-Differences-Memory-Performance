@@ -1,3 +1,4 @@
+#By Jaclyn Eissman, March 30, 2023
 #Remove 1Mb region around APOE -- Cross-Ancestry
 
 #libraries
