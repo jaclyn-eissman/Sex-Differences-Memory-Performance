@@ -1,3 +1,4 @@
+#By Jaclyn Eissman, March 30, 2023
 ###Set to fail if error
 set -e 
 
