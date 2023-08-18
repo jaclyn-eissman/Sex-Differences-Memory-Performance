@@ -1,3 +1,5 @@
+#By Jaclyn Eissman and Derek Archer
+
 ##########Script for removing related individuals from 4 ADSP cohorts for the sex differences memory GWAS -- NHW
 
 ###Check for directories and for files (check for one dataset)
