@@ -1,3 +1,5 @@
+#By Jaclyn Eissman, March 30, 2023
+
 #Get APOE SNPs to drop -- NHW
 
 #libraries
