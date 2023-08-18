@@ -1,4 +1,5 @@
 #!/bin/bash
+#By Jaclyn Eissman, March 30, 2023
 ###Script to Prep GWAS Files for Post-GWAS
 
 ###Rename final file set for post-GWAS
