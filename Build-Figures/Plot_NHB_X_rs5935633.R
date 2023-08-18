@@ -1,3 +1,4 @@
+#By Jaclyn Eissman, March 30, 2023
 #Packages
 library(data.table)
 library(metafor)
