@@ -1,4 +1,5 @@
 #!/bin/bash
+#By Jaclyn Eissman, March 30, 2023
 ######Run Cross-Ancestry Meta-Analyses
 
 #Directory
