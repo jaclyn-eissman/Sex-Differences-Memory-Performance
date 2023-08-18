@@ -1,4 +1,5 @@
 #!/bin/bash
+#By Jaclyn Eissman, March 30, 2023
 
 ###Rename final file set for post-GWAS
 plink --bfile /data/h_vmac/eissmajm/Sex_Diff_ADSP_GWAS/Data/NHW/No_Relateds_Merged_First_Pass --make-bed --freq --out /data/h_vmac/eissmajm/Sex_Diff_ADSP_GWAS/MAGMA/NHW/All_Cohorts_NHW_Merged_No_Filter --memory 18000
