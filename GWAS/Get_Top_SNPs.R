@@ -1,6 +1,6 @@
 #By Jaclyn Eissman, March 30, 2023
 
-#Args
+#Set-up command line arguments
 args <- commandArgs(TRUE)
 dir <- args[1]
 sumstats <- args[2]
