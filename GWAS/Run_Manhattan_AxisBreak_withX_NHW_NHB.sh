@@ -1,4 +1,5 @@
 #!/bin/bash
+#By Jaclyn Eissman, March 30, 2023
 
 #Set up for loop -- EasyStrata does not work with job arrays
 for i in NHW NHB; do
