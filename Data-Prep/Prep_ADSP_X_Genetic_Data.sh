@@ -1,3 +1,5 @@
+#By Jaclyn Eissman, March 30, 2023
+
 ##########Script for prepping X-chromosome data for ADSP 4 cohort GWAS
 
 ###Drop relateds
