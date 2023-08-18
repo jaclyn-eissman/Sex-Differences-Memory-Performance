@@ -1,3 +1,5 @@
+#By Derek Archer, modified and validated by Jaclyn Eissman
+
 ############################
 ##########Libraries#########
 ############################
