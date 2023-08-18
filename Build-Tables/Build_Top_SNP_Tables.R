@@ -1,3 +1,4 @@
+#By Jaclyn Eissman, March 30, 2023
 ##########################Top SNP Tables -- SNPs with P<0.00001##########################
 
 #Packages
