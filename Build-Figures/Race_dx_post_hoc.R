@@ -1,3 +1,4 @@
+#By Jaclyn Eissman, March 30, 2023
 ####Race and dx post-hoc analyses for SNPs
 
 #Packages
