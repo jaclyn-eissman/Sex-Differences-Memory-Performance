@@ -5,7 +5,7 @@
 #Directory
 dir=/data/h_vmac/eissmajm/Sex_Diff_ADSP_GWAS/XWAS
 
-#Prep GWAMA files
+#Prep GWAMA meta-analysis input file
 for i in Men Women Interaction; do
 for j in MEM memslopes; do
 for k in WithComorbidities WithoutComorbidities; do
