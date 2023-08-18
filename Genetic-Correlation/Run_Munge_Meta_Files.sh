@@ -1,4 +1,5 @@
 #!/bin/bash
+#By Jaclyn Eissman, March 30, 2023
 
 #Directory
 dir=/data/h_vmac/eissmajm/Sex_Diff_ADSP_GWAS/
