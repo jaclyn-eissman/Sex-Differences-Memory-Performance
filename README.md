@@ -10,7 +10,7 @@ RESULTS: We identified three sex-specific loci (rs67099044 – _CBLN2_, rs719070
 DISCUSSION: This study showed memory is highly and comparably heritable across sexes, as well as highlighted novel sex-specific genes, pathways, and genetic correlations that related to late-life memory.
 
 ## Software Tools
-GWAS: `PLINK`, Meta-Analyses: `GWAMA`, SNP-Heritability: `GCTA`, Gene-Set Analyses: `MAGMA`, Genetic Correlation: `GNOVA` (also see [here](https://github.com/qlu-lab/GNOVA-2.0))
+GWAS: `PLINK`, Meta-Analyses: `GWAMA`, SNP-Heritability: `GCTA`, Gene-Set Analyses: `MAGMA`, Genetic Correlation: `GNOVA` (also see [here](https://github.com/qlu-lab/GNOVA-2.0)), `SUPERGNOVA` [also see here](https://github.com/qlu-lab/SUPERGNOVA)
 
 Acknowledgement
 
@@ -26,4 +26,3 @@ Eissman JM, Archer DB, Mukherjee S, Lee ML, Choi S-E, Scollard P, Trittschuh EH,
 
 Contact
 For questions, comments, or data inquiries, please email corresponding author, Logan Dumitrescu, M.S., Ph.D. at logan.c.dumitrescu@vumc.org.
-
