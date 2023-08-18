@@ -1,4 +1,5 @@
 #!/bin/bash
+#By Jaclyn Eissman, March 30, 2023
 ###Heritability Calcs -- GRM already made
 
 for i in NHW NHB; do
