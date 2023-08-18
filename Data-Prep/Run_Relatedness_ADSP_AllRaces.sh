@@ -1,3 +1,5 @@
+#By Jaclyn Eissman and Derek Archer, March 30, 2023
+
 ##########Script for removing related individuals from 4 ADSP cohorts for the sex differences memory GWAS -- AllRaces
 
 ###Check for directories and for files (check for one dataset)
