@@ -2,6 +2,7 @@
 #By Jaclyn Eissman, March 30, 2023
 ###Heritability Calcs -- GRM already made
 
+#Calculate heritability 
 for i in NHW NHB; do
 for j in Men Women Interaction; do 
 for k in ALL Normals Impaired; do
