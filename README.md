@@ -22,7 +22,7 @@ For extensive details on the cognitive harmonization process, please see this pa
 
 Please cite the following paper:
 
-Eissman JM, Archer DB, Mukherjee S, Lee ML, Choi S-E, Scollard P, Trittschuh EH, Mez JB, Bush WS; Brian W. Kunkle8; Adam C. Naj11,12; Katherine A. Gifford1; The Alzheimer’s Disease Neuroimaging Initiative (ADNI)*; Alzheimer’s Disease Genetics Consortium (ADGC), The Alzheimer's Disease Sequencing Project (ADSP), Cuccaro ML; Cruchaga C, Pericak-Vance MA, Farrer LA, Wang L-S, Schellenberg GD, Mayeux RP, Haines JL, Jefferson AL, Kukull WA, Keene CD, Saykin AJ, Thompson PM, Martin ER, Bennett DA, Barnes LL, Schneider JA, Crane PK, Hohman TJ, Dumitrescu L. Sex-specific genetic architecture of late-life memory performance. Alzheimer's & Dementia. Under Review.
+Eissman JM, Mukherjee S, Lee ML, Choi S, Scollard P, Trittschuh EH, Mez JB, Bush WS, Kunkle BW, Naj AC, Gifford KA, The Alzheimer’s Disease Neuroimaging Initiative (ADNI) Alzheimer’s Disease Genetics Consortium (ADGC), The Alzheimer’s Disease Sequencing Project (ADSP), Cuccaro ML, Cruchaga C, Pericak-Vance MA, Farrer LA, Wang L, Schellenberg GD, Mayeux RP, Haines JL, Jefferson AL, Kukull WA, Keene C, Saykin AJ, Thompson PA, Martin ER, Bennett DA, Barnes LL, Schneider JA, Crane PK, Hohman TJ, Dumitrescu L (2023). Sex-specific genetic architecture of late-life memory performance. Alzheimer’s & Dementia. PMC in Process.
 
 ## Contact
 For questions, comments, or data inquiries, please email corresponding author, Logan Dumitrescu, M.S., Ph.D. at logan.c.dumitrescu@vumc.org.
